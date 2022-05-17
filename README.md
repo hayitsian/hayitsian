@@ -6,7 +6,7 @@ I am an undergraduate student at Northeastern University studying Bioengineering
 - 🌱 I’m currently learning about efficient plagiarism web crawlers
 - 👯 I’m looking to collaborate
 
-Outside of coding, I work as a biotechnology researcher at Factor Bioscience, photograph the streets and city of Boston, and read extensively (always looking for book recommendations!).
+Outside of coding, I work as a biotechnology researcher at [Factor Bioscience](https://factor.bio/), photograph the streets and city of Boston, and read extensively (always looking for book recommendations!).
 
 <!--
 **hayitsian/hayitsian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
