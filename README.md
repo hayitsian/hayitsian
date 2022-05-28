@@ -2,7 +2,7 @@
 
 I am an undergraduate student at Northeastern University, where I study Bioengineering and Artificial Intelligence. 
 
-- 🔭 I’m currently working on bringing research manuscript onto the blockchain
+- 🔭 I’m currently working on bringing scientific research onto the blockchain
 - 🌱 I’m currently learning about n-grams and [the General Index](https://archive.org/details/GeneralIndex)
 - 👯 I’m looking to collaborate on all things Open Science!
 
