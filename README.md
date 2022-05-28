@@ -6,7 +6,7 @@ I am an undergraduate student at Northeastern University studying Bioengineering
 - 🌱 I’m currently learning about n-grams and [the General Index](https://archive.org/details/GeneralIndex)
 - 👯 I’m looking to collaborate on all things Open Science!
 
-Outside of coding projects --see below-- I work as a biotechnology researcher at [Factor Bioscience](https://factor.bio/), photograph the streets and city of Boston ([check out my portfolio!](https://ianhay.net/)), and read extensively.
+Outside of coding projects --see below-- I work as a biotechnology researcher at [Factor Bioscience](https://factor.bio/), photograph the city of Boston ([check out my portfolio!](https://ianhay.net/)), and read extensively.
 
 <!--
 **hayitsian/hayitsian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
