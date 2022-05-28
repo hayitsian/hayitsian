@@ -1,4 +1,4 @@
-### Hi, I am Ian 👋
+### Hey, my name is Ian 👋
 
 I am an undergraduate student at Northeastern University, where I study Bioengineering and Artificial Intelligence. 
 
