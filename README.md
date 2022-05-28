@@ -3,7 +3,7 @@
 I am an undergraduate student at Northeastern University studying Bioengineering and Artificial Intelligence. 
 
 - 🔭 I’m currently working on bringing research manuscript onto the blockchain
-- 🌱 I’m currently learning about efficient plagiarism web crawlers
+- 🌱 I’m currently learning about n-grams and [the General Index](https://archive.org/details/GeneralIndex)
 - 👯 I’m looking to collaborate
 
 Outside of coding, I work as a biotechnology researcher at [Factor Bioscience](https://factor.bio/), photograph the streets and city of Boston ([check out my portfolio!](https://ianhay.net/)), and read extensively (always looking for book recommendations!).
