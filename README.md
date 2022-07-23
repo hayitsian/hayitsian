@@ -2,8 +2,9 @@
 
 I am an undergraduate student at Northeastern University, where I study Bioengineering and Artificial Intelligence. 
 
-- 🔭 I’m currently working on visualizing scientific publication in the General Index Visualization repository.
-- 🌱 I’m currently learning about n-grams and [the General Index](https://archive.org/details/GeneralIndex), as well as Network Theory.
+- 🔭 I’m currently working on visualizing scientific publication from [the General Index](https://archive.org/details/GeneralIndex) in the General Index Visualization repository.
+- 🌱 I’m currently learning about n-grams and NLP models, as well as modeling the immune
+system using network theory.
 - 👯 I’m looking to collaborate on all things Open Science!
 - 📫 How to reach me: hayitsian#6363 on Discord
 
