@@ -8,4 +8,4 @@ system using network theory.
 - 👯 I’m looking to collaborate on all things Open Science!
 - 📫 How to reach me: hayitsian#6363 on Discord
 
-Outside of coding projects --see below-- I work as a biotechnology researcher at [Factor Bioscience](https://factor.bio/), photograph the city of Boston ([check out my portfolio!](https://ianhay.net/)), and read extensively.
+Outside of coding projects --see below-- I work as a biotechnology researcher at [Factor Bioscience](https://factor.bio/), photograph the city of Boston ([check out my portfolio!](https://ianhay.net/)), play squash, and love to read.
